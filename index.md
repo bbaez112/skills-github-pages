@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+Gaming : Welcome to my blog
 ---
-
